@@ -12,7 +12,7 @@ Designer and Web Developer. I build web apps with friendly interfaces and clean 
 
 - &nbsp;Backend:&nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-0A1A2F?style=flat&logo=node.js)
-- ⚛️ &nbsp;Frontend:&nbsp;
+- &nbsp;Frontend:&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat&logo=javascript)
   ![Vue](https://img.shields.io/badge/-Vue-0A1A2F?style=flat&logo=vue.js)
   ![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react)
@@ -28,7 +28,6 @@ Designer and Web Developer. I build web apps with friendly interfaces and clean 
   ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)
 - &nbsp;IDE's:&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Visual Studio](https://img.shields.io/badge/-AVisual%20Studio-0A1A2F?style=flat&logo=visual-studio&logoColor=blueviolet)
 - &nbsp;Design:&nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-0A1A2F?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-0A1A2F?style=flat&logo=adobe-photoshop)
