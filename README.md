@@ -17,6 +17,7 @@ Designer and Web Developer. I build web apps with friendly interfaces and clean 
   ![Vue](https://img.shields.io/badge/-Vue-0A1A2F?style=flat&logo=vue.js)
   ![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react)
   ![StyledComponents](https://img.shields.io/badge/-StyledComponents-0A1A2F?style=flat&logo=styled-components&logoColor=fff)
+  ![Next.js](https://img.shields.io/badge/-Next.js-0A1A2F?style=flat&logo=next.js)
   ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-0A1A2F?style=flat&logo=nuxt.js)
   ![Vuetify.js](https://img.shields.io/badge/-Vuetify-0A1A2F?style=flat&logo=vuetify)
 - &nbsp;Database:&nbsp;
