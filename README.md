@@ -1,32 +1,3 @@
-Introduction
-Skills
-Socials
-Badges
-
-    Support
-
-© 2022 Dan Cranney
-Follow me
-|
-Buy Me a Coffee
-Introduction
-
-Introduce yourself. Tell visitors about you and who you are.
-👋Hi! My name is:
-💡Subtitle:
-✏️Long Description:
-Hi, this is Marlon. I'm a designer who learned how to code with JS. I develop scalable apps with attractive interfaces using Vuejs and React
-About me
-🌍I'm based in:
-🖥️See my portfolio:
-http://
-✉️Contact me at:
-🚀I'm currently working on:
-http://
-🧠I'm currently learning:
-🤝I'm open to collaborating on:
-⚡Anything else:
-
 Hi 👋 My name is Marlon Lavanda
 ===============================
 
@@ -63,9 +34,9 @@ Hi, this is Marlon. I'm a designer who learned how to code with JS. I develop sc
                     </p>
                     
 
-                  ### Socials
-                  
-                  <p align="left"> <a href="https://www.github.com/marlonlavanda" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/marlon-lavanda" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/LavandaMarlon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+### Socials
+
+<p align="left"> <a href="https://www.github.com/marlonlavanda" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/marlon-lavanda" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/LavandaMarlon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
