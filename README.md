@@ -1,4 +1,4 @@
-Hi 👋 My name is Marlon Lavanda
+Hi 👋 I'm Marlon
 ===============================
 
 Frontend Developer
@@ -6,8 +6,8 @@ Frontend Developer
 
 Hi, this is Marlon. I'm a designer who learned how to code with JS. I develop scalable apps with attractive interfaces using Vuejs and React
 
-*   🌍  I'm based in Manchester, United Kingdom
-*   ✉️  You can contact me at [marlonlavanda@hotmail.com](mailto:marlonlavanda@hotmail.com)
+*   🌍  Based in Manchester
+*   ✉️  Email me at [marlonlavanda@hotmail.com](mailto:marlonlavanda@hotmail.com)
 
 ### Skills
 <p align="left">
